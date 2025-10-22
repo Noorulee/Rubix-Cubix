@@ -83,6 +83,7 @@ eg >> if the center has red color on it, it means entire side should be red when
 2. The Edge >> it holds 2 color
 def edge >> type of piece that fits in between 2 centers.
 eg>> any 2 color edge fits between that 2 colors centers.
+
 3. Corner Piece>> it has 3 colors on it
    that corner whichever the colors they have will fits between that 3 colors only.
 
